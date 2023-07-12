@@ -1,0 +1,30 @@
+@import url("https://fonts.googleapis.com/css2?family=Nunito:ital,wght@0,200;0,300;0,400;0,500;1,200;1,300;1,400&family=Roboto:ital,wght@0,300;1,300&display=swap");
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  text-decoration: none;
+  list-style: none;
+}
+
+body {
+  background-image: url(./web-technologies-4k-wallpaper.png);
+  background-size: cover;
+  background-attachment: fixed;
+}
+
+.title {
+  font-size: 40px;
+  margin-top: 40px;
+  text-align: center;
+  color: white;
+  -webkit-text-stroke: 1px black;
+}
+
+.text-p {
+  font-size: 25px;
+  color: white;
+  margin-top: 10px;
+  text-align: center;
+}
